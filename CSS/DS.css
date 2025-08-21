@@ -20,7 +20,7 @@ textarea {
     font-size: medium;
 }
 
-button {
+#adicionar, #sortear {
     font-size: medium;
     margin-top: 20px;
     padding: 17px;
